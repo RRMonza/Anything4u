@@ -6,17 +6,21 @@ import unicodedata
 
 # lirik lagu dan durasi
 LYRICS = [
-    ("So, what if I call", 4),
-    ("And you pick up the phone?", 5),
-    ("And I use this holiday to make my way to your ghost", 9),
-    ("Oh, what if you're lonely", 5),
-    ("And you know I am too", 4),
-    ("And i get the chance to stay", 3),
-    ("Merry Christmas, I miss you", 5), 
+    ("Girl, just tell me what I have to do", 5),
+    ("If you say, you wanna leave this town tonight", 5),
+    ("Then let's do it", 2),
+    ("If we're halfway there", 2),
+    ("And then you change your mind", 3),
+    ("There's nothing to it", 3),
+    ("If it takes the rest of my whole life", 4),
+    ("To prove it", 2), 
+    ("I'll catch a flight, go to the moon", 3),
+    ("Lay on the floor of your livin' room", 4),
+    ("And talk about the things that make you cry", 5),
 ]
 
 # efek salju
-FLAKES = ["⋆", "꙳", "•", "❅", "‧", "❆", "₊"]
+FLAKES = ["·", "·", "·", ".", ".", "˙", "°", "*", "+"]
 WIDTH = 70
 HEIGHT = 22
 FPS = 0.04
@@ -131,8 +135,8 @@ def main():
 
         title_lines = [
             "⋆꙳•❅*‧ ‧*❆ ₊⋆",
-            "I Miss You",
-            "Ghost",
+            "Anything 4 u",
+            "LANY",
             "⋆꙳•❅*‧ ‧*❆ ₊⋆"
         ]
         

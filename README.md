@@ -1,6 +1,6 @@
 # imissu-lyrics
 
-An animated visualizer of *"Merry Christmas, I Miss You"* by **Ghost**, featuring a falling snow effect and lyrics synchronized to the music. Available in two versions: a terminal-based renderer written in Python and a graphical 60 FPS renderer built with C++ and [raylib](https://www.raylib.com).
+An animated visualizer of *"Anything 4 u"* by **LANY**, featuring a falling snow effect and lyrics synchronized to the music. Available in two versions: a terminal-based renderer written in Python and a graphical 60 FPS renderer built with C++ and [raylib](https://www.raylib.com).
 
 ## Requirements
 
@@ -48,4 +48,4 @@ The snow is rendered as parallax particles in three depth layers with sinusoidal
 
 ## Credits
 
-Song: *Merry Christmas, I Miss You* by Ghost
+Song *Anything 4 u* by LANY
