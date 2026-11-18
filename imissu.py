@@ -162,7 +162,7 @@ def main():
                 
 
         clear()
-        closing_lines = ["i loved u"]
+        closing_lines = ["rr monza"]
         closing_output = render_simple_text(closing_lines)
         sys.stdout.write("\033[H" + "\n" * pad + closing_output)
         sys.stdout.flush()
